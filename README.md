@@ -18,3 +18,11 @@ mysql -uroot -p wzflow < wzflow_init.sql
 ```
 mvn jetty:run
 ```
+
+## 登录入口
+
+http://127.0.0.1/private/login 
+
+用户名：superadmin
+
+密码：1
